@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploreAsync", "ExploreAsync\ExploreAsync.csproj", "{A23EA69C-BA67-4F61-8663-69D031DF0E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureThreadPool", "EnsureThreadPool\EnsureThreadPool.csproj", "{E89833AB-C4D5-48A2-AE9B-81808D95A959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyTask", "FancyTask\FancyTask.csproj", "{EAF8D1C2-8387-4F2E-BEFD-C07EF149B7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23EA69C-BA67-4F61-8663-69D031DF0E40}.Debug|x86.ActiveCfg = Debug|x86
+		{A23EA69C-BA67-4F61-8663-69D031DF0E40}.Debug|x86.Build.0 = Debug|x86
+		{A23EA69C-BA67-4F61-8663-69D031DF0E40}.Release|x86.ActiveCfg = Release|x86
+		{A23EA69C-BA67-4F61-8663-69D031DF0E40}.Release|x86.Build.0 = Release|x86
+		{E89833AB-C4D5-48A2-AE9B-81808D95A959}.Debug|x86.ActiveCfg = Debug|x86
+		{E89833AB-C4D5-48A2-AE9B-81808D95A959}.Debug|x86.Build.0 = Debug|x86
+		{E89833AB-C4D5-48A2-AE9B-81808D95A959}.Release|x86.ActiveCfg = Release|x86
+		{E89833AB-C4D5-48A2-AE9B-81808D95A959}.Release|x86.Build.0 = Release|x86
+		{EAF8D1C2-8387-4F2E-BEFD-C07EF149B7AD}.Debug|x86.ActiveCfg = Debug|x86
+		{EAF8D1C2-8387-4F2E-BEFD-C07EF149B7AD}.Debug|x86.Build.0 = Debug|x86
+		{EAF8D1C2-8387-4F2E-BEFD-C07EF149B7AD}.Release|x86.ActiveCfg = Release|x86
+		{EAF8D1C2-8387-4F2E-BEFD-C07EF149B7AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
